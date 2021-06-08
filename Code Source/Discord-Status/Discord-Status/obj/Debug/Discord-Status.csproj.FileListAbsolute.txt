@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\bin\Debug\Discord-Status.exe.config
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\bin\Debug\Discord-Status.exe
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\bin\Debug\Discord-Status.pdb
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\Discord-Status.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\App.g.cs
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\Discord-Status_MarkupCompile.cache
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\Discord-Status_MarkupCompile.lref
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\Discord-Status.g.resources
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\Discord_Status.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\Discord-Status.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\Discord-Status.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\Discord-Status.exe
+C:\Users\User\Documents\GitHub\Discord-Status\Code Source\Discord-Status\Discord-Status\obj\Debug\Discord-Status.pdb
